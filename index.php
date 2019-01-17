@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Natura Parents</title>
+	<title>Use Case</title>
 </head>
 <body>
 <img src="usecase.JPG">
